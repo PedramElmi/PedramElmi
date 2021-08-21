@@ -1,6 +1,6 @@
-- 👋 Hi, I’m **Pedram Elmi**
-- 👀 I’m interested in Construction Management Projects
-- 🌱 I’m currently learning .NET Navisworks API
+- 👋 Hi, I’m **Pedram**
+- 👀 I’m interested in Construction Projects
+- 🌱 I’m currently learning .NET Navisworks API to do my thesis
 - 💞️ I’m looking to collaborate on Building Information Modeling Projects
 - 📫 Tehran, Iran - Email: pedram.elmi@gmail.com
 
