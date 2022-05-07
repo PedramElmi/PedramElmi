@@ -1,15 +1,14 @@
-### About Me
-- 👋 Hi, I’m **Pedram**
-- 👀 I’m interested in Construction Projects
-- 🎓 I’m currently working on my thesis
-- 🌱 I’m currently working with .NET Navisworks API and python to finish my thesis
-- 📫 Tehran, Iran - Email: pedram.elmi@gmail.com
+### About
+Pedram is a student living in Tehran, Iran. he primarily works with BIM software such as Autodesk Navisworks and programming languages (.NET, Python) to develop new features and plugins.
 
 ### Languages and Tools
-C#, .NET Framework, Desktop Development, Python, SQL
+`C#` `.NET Framework` `Desktop Development` `Python` `SQL` `Autodesk Navisworks` `Autodesk Revit`
 
-### Follow Me
+### Follow
 **[Twitter](https://twitter.com/PedramElmi) - [LinkedIn](https://www.linkedin.com/in/pedram-elmi)**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedramElmi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedramElmi&layout=compact&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedramElmi&layout=compact&count_private=true&show_icons=true&&theme=dark)](https://github.com/PedramElmi)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedramElmi&count_private=true&show_icons=true&theme=dark)](https://github.com/PedramElmi)
+
+[![Pedram's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&username=PedramElmi)](https://wakatime.com/@PedramElmi)
