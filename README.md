@@ -5,7 +5,7 @@ Pedram is a MSc graduate student in Construction Engineering and Management. He 
 - Programming Languages: C#, Python, SQL
 - Frameworks: .NET, .NET Framework
 - Tools: Autodesk Navisworks, Autodesk Revit
-- Databases: MongoDB
+- Databases: SQL, MongoDB
 
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedramElmi&layout=compact&count_private=true&show_icons=true&&theme=dark)](https://github.com/PedramElmi)
