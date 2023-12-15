@@ -2,7 +2,7 @@
 Pedram is a MSc graduate student in Construction Engineering and Management. He is primarily interested in construction automation and works with BIM software and programming languages.
 
 ### Skills
-- Programming Languages: C#, Python, SQL
+- Programming Languages: C#, Python
 - Frameworks: .NET, .NET Framework
 - Tools: Autodesk Navisworks, Autodesk Revit
 - Databases: SQL, MongoDB
