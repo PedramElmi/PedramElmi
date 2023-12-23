@@ -1,5 +1,4 @@
 ### About
-Pedram is a MSc graduate student in Construction Engineering and Management. He is primarily interested in construction automation and works with BIM software and programming languages.
 - I'm a BIM developer with a passion for creating innovative solutions for the construction industry
 - I have an MSc degree in Construction Engineering and Management from K. N. Toosi University of Technology
 - My main interest is construction automation and how it can improve the efficiency and quality of projects
