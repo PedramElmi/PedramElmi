@@ -1,8 +1,5 @@
 ### About
-- I'm a BIM developer with a passion for creating innovative solutions for the construction industry
-- I have an MSc degree in Construction Engineering and Management from K. N. Toosi University of Technology
-- My main interest is construction automation and how it can improve the efficiency and quality of projects
-- I'm always eager to learn new skills and tools to improve my performance and deliver high-quality results
+As a BIM developer, I'm enthusiastic about developing pioneering solutions for the construction industry. I have a master's in Construction Engineering and Management from K.N. Toosi University of Technology. My primary focus is construction automation and how it can enhance project efficiency and quality. I'm always keen to acquire new skills and tools to elevate my performance and provide top-quality outcomes.
 
 
 ### Skills
