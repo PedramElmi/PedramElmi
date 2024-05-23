@@ -3,10 +3,10 @@ As a BIM developer, I'm enthusiastic about developing pioneering solutions for t
 
 
 ### Skills
-- Programming Languages: C#, Python
-- Frameworks: .NET, .NET Framework, MVVM,
-- Design Patterns: MVVM,
-- Tools: Autodesk Navisworks API, Autodesk Revit API
+- Topics: BIM, Simulation, Clash Detection
+- Programming Languages: .NET C#, Python
+- Frameworks: Entity Framework, MVVM
+- Tools: Autodesk Navisworks API, Autodesk Revit API, Simpy
 - Databases: SQL Server, MySQL, MongoDB
 
 ### 
